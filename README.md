@@ -22,6 +22,14 @@ cd ../best/
 sudo make clean install
 ```
 
+Install [picom-ibhagwan](https://github.com/ibhagwan/picom) and
+
+```
+mkdir -p ~/.config/picom/
+cp ~/dwm-dots/picom.conf ~/.config/picom/
+```
+
+
 Then setup autostart script.
 ```
 cd ~/
