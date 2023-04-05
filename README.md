@@ -29,7 +29,7 @@ mkdir .dwm
 cp dwm-dots/*.sh .dwm/
 ```
 
-Finally add an entry in Display Manager, I am using Lightdm
+Finally add an entry in Display Manager, I am using Lightdm.
 
 ```
 sudo cp dwm-dots/dwm.desktop usr/share/xsessions/
@@ -37,3 +37,4 @@ sudo cp dwm-dots/dwm.desktop usr/share/xsessions/
 
 ---
 
+![image](https://user-images.githubusercontent.com/95064572/230124343-e46c7145-53ba-40e2-8049-856f6713b07c.png)
